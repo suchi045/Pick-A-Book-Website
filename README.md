@@ -1,4 +1,4 @@
-# 📚 Simple Bookstore Website
+# 📚 Pick A Book Website
 
 A responsive and elegant bookstore website featuring books from various genres. Built to showcase basic front-end development skills using HTML and CSS, this project links multiple pages into a cohesive and dynamic website.
 
@@ -8,7 +8,7 @@ A responsive and elegant bookstore website featuring books from various genres. 
 
 This project is a beginner-friendly bookstore website built using only HTML and CSS. It demonstrates how to create and structure a multi-page static website while focusing on layout design, navigation, and clean user interface.
 
-The website includes five interconnected pages:
+The website includes the following interconnected pages:
 
 - Home Page    
 - Book Details Page  
