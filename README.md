@@ -36,8 +36,9 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/bookstore-website.git
 
 2. Navigate into the project folder:
-   
-cd bookstore-website
+
+   ```bash
+   cd bookstore-website
 
 3. Open mainpage3.html in any web browser.
 
